@@ -3,6 +3,17 @@
 [![GitHub followers](https://img.shields.io/github/followers/philippebeck?label=GitHub+followers)](https://github.com/philippebeck)
 [![Twitter Follow](https://badgen.net/twitter/follow/philippepjbeck?label=Twitter+followers)](https://twitter.com/philippepjbeck)
 
+<img alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+<img alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img alt="PHP" width="50px" src="https://camo.githubusercontent.com/f7ca3c85e85a1a5b05ef1583af3921e6f4aea77e/68747470733a2f2f7777772e7068702e6e65742f696d616765732f6c6f676f732f6e65772d7068702d6c6f676f2e737667">
+<img alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
+<img alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+
 Amateur of computer graphics on Amiga at the high school, CNAM student in post-baccalaureate in programming, then computer technician, but also hardgamer for many years, otaku & Sci-Fi fan forever, the evolution of technologies fascinate me.
 
 I'm passionate about the web, open-source, cross-platform, robotics, advanced techniques in general & a lot of sciences fields, like astronomy & geology !
