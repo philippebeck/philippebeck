@@ -3,13 +3,19 @@
 [![GitHub followers](https://img.shields.io/github/followers/philippebeck?label=GitHub+followers)](https://github.com/philippebeck)
 [![Twitter Follow](https://badgen.net/twitter/follow/philippepjbeck?label=Twitter+followers)](https://twitter.com/philippepjbeck)
 
-Amateur of computer graphics on Amiga at the high school, CNAM student in post-baccalaureate in programming, then computer technician, but also hardgamer for many years, otaku & Sci-Fi fan forever, the evolution of technologies fascinate me.
+---
 
-I'm passionate about the web, open-source, cross-platform, robotics, advanced techniques in general & a lot of sciences fields, like astronomy & geology !
+> Amateur of computer graphics on Amiga at the high school, CNAM student in post-baccalaureate in programming, then computer technician, but also hardgamer for many years, otaku & Sci-Fi fan forever, the evolution of technologies fascinate me.
 
-Open-minded, research and learning are intrinsically linked to my personality ; I'm both a student, mentor & evaluator @OpenClassrooms...
+> I'm passionate about the web, open-source, cross-platform, robotics, advanced techniques in general & a lot of sciences fields, like astronomy & geology !
+
+> Open-minded, research and learning are intrinsically linked to my personality ; I'm both a student, mentor & evaluator @OpenClassrooms...
+
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philippebeck&show_icons=true&hide_border=true)
+
+---
 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
@@ -21,7 +27,8 @@ Open-minded, research and learning are intrinsically linked to my personality ; 
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
 <img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-<br>
+
+---
 
 | PACKAGES  |Animadio CSS|Animadio JS|Pam PHP|
 | :----: | :----: | :----: | :----: |
