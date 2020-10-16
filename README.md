@@ -3,7 +3,6 @@
 ![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=philippebeck.philippebeck)
 [![Repos Badge](https://badges.pufler.dev/repos/philippebeck)](https://github.com/philippebeck?tab=repositories)
 [![Years Badge](https://badges.pufler.dev/years/philippebeck)](https://github.com/philippebeck)
-
 [![GitHub followers](https://img.shields.io/github/followers/philippebeck?label=GitHub+followers)](https://github.com/philippebeck)
 [![Twitter Follow](https://badgen.net/twitter/follow/philippepjbeck?label=Twitter+followers)](https://twitter.com/philippepjbeck)
 
@@ -18,6 +17,7 @@
 ---
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=philippebeck)
+<img alt="GitHub Gif" height="110px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philippebeck&theme=midnight-purple&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philippebeck&layout=compact&theme=midnight-purple)
@@ -35,6 +35,7 @@
 ---
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder Gif" width="200" height="150">
 
 ---
 
