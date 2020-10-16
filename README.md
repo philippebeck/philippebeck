@@ -3,8 +3,8 @@
 ![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=philippebeck.philippebeck)
 [![Repos Badge](https://badges.pufler.dev/repos/philippebeck)](https://github.com/philippebeck?tab=repositories)
 [![Years Badge](https://badges.pufler.dev/years/philippebeck)](https://github.com/philippebeck)
-[![GitHub followers](https://img.shields.io/github/followers/philippebeck?label=GitHub+followers)](https://github.com/philippebeck)
-[![Twitter Follow](https://badgen.net/twitter/follow/philippepjbeck?label=Twitter+followers)](https://twitter.com/philippepjbeck)
+[![GitHub followers](https://img.shields.io/github/followers/philippebeck?label=GitHub+followers+@philippebeck)](https://github.com/philippebeck)
+[![Twitter Follow](https://badgen.net/twitter/follow/philippepjbeck?label=Twitter+followers+@philippepjbeck)](https://twitter.com/philippepjbeck)
 
 ---
 
