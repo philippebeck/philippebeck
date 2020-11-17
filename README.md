@@ -30,14 +30,10 @@
 |Documentation|[![Animadio CSS Doc](https://img.shields.io/website-up-down-green-red/https/animadio.org.svg?label=animadio.org)](https://animadio.org)|[![Animadio JS Doc](https://img.shields.io/website-up-down-green-red/https/animadio.org.svg?label=animadio.org)](https://animadio.org)|[![Pam Doc](https://img.shields.io/website-up-down-green-red/https/pam.devsagency.net.svg?label=pam.devsagency.net)](https://pam.devsagency.net)|
 
 ---
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philippebeck&theme=midnight-purple&show_icons=true)
+<img src="https://media.giphy.com/media/l0COJ5gIPUN2vOj5u/giphy.gif" alt="Zen Gif" width="200">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder Gif" width="220">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philippebeck&layout=compact&theme=midnight-purple)
-
----
-
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder Gif" width="200" height="150">
 
 ---
 
