@@ -1,7 +1,6 @@
 # Welcome !
 
 ![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=philippebeck.philippebeck)
-[![Repos Badge](https://badges.pufler.dev/repos/philippebeck)](https://github.com/philippebeck?tab=repositories)
 [![GitHub followers](https://img.shields.io/github/followers/philippebeck?label=GitHub+followers+@philippebeck)](https://github.com/philippebeck)
 [![Twitter Follow](https://badgen.net/twitter/follow/ph_beck?label=Twitter+followers+@ph_beck)](https://twitter.com/ph_beck)
 
