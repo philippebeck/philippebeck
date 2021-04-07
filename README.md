@@ -21,6 +21,7 @@
 
 | PACKAGES  | Animadio | Pam |
 | :----: | :----: | :----: |
+|Language |[![CSS](https://badgen.net/badge/css/3/blue)](https://github.com/animadio/animadio)|[![PHP](https://badgen.net/badge/php/7/blue)](https://github.com/devsagency/pam)|
 |Version |[![NPM](https://img.shields.io/npm/v/animadio.svg)](https://www.npmjs.com/package/animadio)|[![Packagist](https://img.shields.io/packagist/v/devsagency/pam.svg)](https://packagist.org/packages/devsagency/pam)|
 |Quality|[![Animadio CSS Quality](https://app.codacy.com/project/badge/Grade/299d541b73494c259debb80a0b25b9cc)](https://www.codacy.com/gh/animadio/animadio/dashboard)|[![Pam Quality](https://app.codacy.com/project/badge/Grade/d23a35cde327458388799fddea39fc96)](https://www.codacy.com/gh/devsagency/pam/dashboard)|
 |Maintainability|[![Animadio CSS Maintainability](https://api.codeclimate.com/v1/badges/ad3b450099d132b4d98d/maintainability)](https://codeclimate.com/github/animadio/animadio/maintainability)|[![Pam Maintainability](https://api.codeclimate.com/v1/badges/72ab5ccaf9a8278df405/maintainability)](https://codeclimate.com/github/devsagency/pam/maintainability)|
