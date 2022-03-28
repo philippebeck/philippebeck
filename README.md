@@ -15,7 +15,6 @@
 ---
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=philippebeck&theme=onedark)
-<img alt="GitHub Gif" height="110" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 ---
 
