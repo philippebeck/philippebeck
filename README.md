@@ -1,23 +1,44 @@
-# Welcome !
+# Hello, I'm Philippe
 
-![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=philippebeck.philippebeck)
-[![GitHub followers](https://img.shields.io/github/followers/philippebeck?label=GitHub+followers+@philippebeck)](https://github.com/philippebeck)
-[![Twitter Follow](https://badgen.net/twitter/follow/ph_beck?label=Twitter+followers+@ph_beck)](https://twitter.com/ph_beck)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ph_beck)
+[![Twitter](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/philippebeck)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippebeck)
+
+## About me
+
+- 🤖 Fullstack Developer, mainly Open-Source  
+
+- 💼 Mentor in Web Development @[OpenClassrooms](https://openclassrooms.com)  
+
+- 📈 Built [Animadio](https://animadio.org) & [Pam](https://pam.philippebeck.net)  
+
+- ❤️ I love writing JavaScript, Vue & Sass  
+
+- 💬 Ask me about anything [here](https://github.com/philippebeck/philippebeck/issues)  
 
 ---
-
-> Amateur of computer graphics on Amiga at the high school, CNAM student in post-baccalaureate in programming, then computer technician, but also hardgamer for many years, otaku & Sci-Fi fan forever, the evolution of technologies fascinate me.
-
-> I'm passionate about the web, open-source, cross-platform, robotics, advanced techniques in general & a lot of sciences fields, like astronomy & geology !
-
-> Open-minded, research and learning are intrinsically linked to my personality ; I'm both a student, mentor & evaluator @OpenClassrooms...
-
----
+## Stats
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=philippebeck&theme=onedark)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philippebeck&theme=midnight-purple&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philippebeck&layout=compact&theme=midnight-purple)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philippebeck&layout=compact&theme=midnight-purple)
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder Gif" height="165">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philippebeck&theme=midnight-purple&show_icons=true)
+## Packages
+
+[![Animadio](https://github-readme-stats.vercel.app/api/pin/?username=philippebeck&repo=animadio&theme=midnight-purple)](https://github.com/philippebeck/animadio)
+[![Pam](https://github-readme-stats.vercel.app/api/pin/?username=philippebeck&repo=pam&theme=midnight-purple)](https://github.com/philippebeck/pam)
