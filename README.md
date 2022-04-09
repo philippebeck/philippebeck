@@ -17,12 +17,7 @@
 - 💬 Ask me about anything [here](https://github.com/philippebeck/philippebeck/issues)  
 
 ---
-## Stats
-
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=philippebeck&theme=onedark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philippebeck&theme=midnight-purple&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philippebeck&layout=compact&theme=midnight-purple)
+## Technos & Stats
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,6 +30,11 @@
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=philippebeck&theme=onedark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philippebeck&theme=midnight-purple&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philippebeck&layout=compact&theme=midnight-purple)
 
 ---
 
