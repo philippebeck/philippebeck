@@ -39,9 +39,10 @@
 
 ## Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philippebeck&theme=midnight-purple&show_icons=true)
+
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=philippebeck&theme=onedark&column=7)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philippebeck&theme=midnight-purple&show_icons=true)
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=philippebeck&theme=midnight-purple)
 
 ---
