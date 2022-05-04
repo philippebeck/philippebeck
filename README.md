@@ -10,7 +10,7 @@
 
 💼 Mentor in Web Development @[OpenClassrooms](https://openclassrooms.com)  
 
-🌱 Built [Animadio](https://animadio.org) & [Pam](https://pam.philippebeck.net)  
+🌱 Built [Animadio](https://github.com/philippebeck/animadio), [Nemjs](https://github.com/philippebeck/nemjs), [Pam](https://github.com/philippebeck/pam) & [Servidio](https://github.com/philippebeck/servidio)  
 
 ❤️ I love writing JavaScript, Vue & Sass  
 
@@ -50,4 +50,6 @@
 ## Packages
 
 [![Animadio](https://github-readme-stats.vercel.app/api/pin/?username=philippebeck&repo=animadio&theme=midnight-purple)](https://www.npmjs.com/package/animadio)
+[![Nemjs](https://github-readme-stats.vercel.app/api/pin/?username=philippebeck&repo=nemjs&theme=midnight-purple)](https://www.npmjs.com/package/nemjs)
 [![Pam](https://github-readme-stats.vercel.app/api/pin/?username=philippebeck&repo=pam&theme=midnight-purple)](https://packagist.org/packages/philippebeck/pam)
+[![Servidio](https://github-readme-stats.vercel.app/api/pin/?username=philippebeck&repo=servidio&theme=midnight-purple)](https://www.npmjs.com/package/servidio)
