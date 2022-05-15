@@ -53,3 +53,4 @@
 [![Nemjs](https://github-readme-stats.vercel.app/api/pin/?username=philippebeck&repo=nemjs&theme=midnight-purple)](https://www.npmjs.com/package/nemjs)
 [![Pam](https://github-readme-stats.vercel.app/api/pin/?username=philippebeck&repo=pam&theme=midnight-purple)](https://packagist.org/packages/philippebeck/pam)
 [![Servidio](https://github-readme-stats.vercel.app/api/pin/?username=philippebeck&repo=servidio&theme=midnight-purple)](https://www.npmjs.com/package/servidio)
+[![Servidio](https://github-readme-stats.vercel.app/api/pin/?username=philippebeck&repo=vue-elt&theme=midnight-purple)](https://www.npmjs.com/package/vue-elt)
