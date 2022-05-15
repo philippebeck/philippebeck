@@ -10,7 +10,7 @@
 
 💼 Mentor in Web Development @[OpenClassrooms](https://openclassrooms.com)  
 
-🌱 Built [Animadio](https://github.com/philippebeck/animadio), [Nemjs](https://github.com/philippebeck/nemjs), [Pam](https://github.com/philippebeck/pam) & [Servidio](https://github.com/philippebeck/servidio)  
+🌱 Built [Animadio](https://github.com/philippebeck/animadio), [Nemjs](https://github.com/philippebeck/nemjs), [Pam](https://github.com/philippebeck/pam), [Servidio](https://github.com/philippebeck/servidio) & [Vue Elt](https://github.com/philippebeck/vue-elt)  
 
 ❤️ I love writing JavaScript, Vue & Sass  
 
