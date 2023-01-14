@@ -39,18 +39,8 @@
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philippebeck&theme=midnight-purple&show_icons=true)
+![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=philippebeck&theme=midnight-purple)
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=philippebeck&theme=onedark&column=7)
 
-![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=philippebeck&theme=midnight-purple)
-
----
-
-## Packages
-
-[![Animadio](https://github-readme-stats.vercel.app/api/pin/?username=philippebeck&repo=animadio&theme=midnight-purple)](https://www.npmjs.com/package/animadio)
-[![Nemjs](https://github-readme-stats.vercel.app/api/pin/?username=philippebeck&repo=nemjs&theme=midnight-purple)](https://www.npmjs.com/package/nemjs)
-[![Pam](https://github-readme-stats.vercel.app/api/pin/?username=philippebeck&repo=pam&theme=midnight-purple)](https://packagist.org/packages/philippebeck/pam)
-[![Servidio](https://github-readme-stats.vercel.app/api/pin/?username=philippebeck&repo=servidio&theme=midnight-purple)](https://www.npmjs.com/package/servidio)
-[![Servidio](https://github-readme-stats.vercel.app/api/pin/?username=philippebeck&repo=vue-elt&theme=midnight-purple)](https://www.npmjs.com/package/vue-elt)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philippebeck&theme=midnight-purple&show_icons=true)
