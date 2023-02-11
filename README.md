@@ -8,9 +8,9 @@
 
 🤖 Fullstack Developer, mainly Open-Source  
 
-💼 Mentor in Web Development @[OpenClassrooms](https://openclassrooms.com)  
+💼 Mentor in Web Development & IT @[OpenClassrooms](https://openclassrooms.com)  
 
-🌱 Built [Animadio](https://github.com/philippebeck/animadio), [Nemjs](https://github.com/philippebeck/nemjs), [Pam](https://github.com/philippebeck/pam), [Servidio](https://github.com/philippebeck/servidio) & [Vue Elt](https://github.com/philippebeck/vue-elt)  
+🌱 Built [Animadio](https://www.npmjs.com/package/animadio), [Nemjs](https://www.npmjs.com/package/nemjs), [Pam](https://packagist.org/packages/philippebeck/pam), [Servidio](https://www.npmjs.com/package/servidio), [Vue Elt](https://www.npmjs.com/package/vue-elt) & [Vesan](https://www.npmjs.com/package/vesan)  
 
 ❤️ I love writing JavaScript, Vue & Sass  
 
