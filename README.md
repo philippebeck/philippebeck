@@ -1,10 +1,8 @@
 # Hello, I'm Philippe
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/philippebeck)
-[![CodePen](https://img.shields.io/badge/Codepen-131417?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/philippebeck)
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ph_beck)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippebeck)
+[![CodePen](https://img.shields.io/badge/Codepen-131417?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/philippebeck)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ph_beck)
 
 🤖 Fullstack Developer, mainly Open-Source  
 
