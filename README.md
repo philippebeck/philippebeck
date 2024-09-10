@@ -10,7 +10,7 @@
 
 💼 Web Trainer, mainly @[OpenClassrooms](https://openclassrooms.com)  
 
-🌱 FrontEnd packages made : [Animadio](https://www.npmjs.com/package/animadio) & [Vesan](https://www.npmjs.com/package/vesan)  
+🌱 FrontEnd packages made : [Animadio](https://www.npmjs.com/package/animadio), [Reactoms](https://www.npmjs.com/package/reactoms) & [Vesan](https://www.npmjs.com/package/vesan)  
 
 📦 BackEnd packages made : [Nens](https://www.npmjs.com/package/nens) & [Pam](https://packagist.org/packages/philippebeck/pam)  
 
