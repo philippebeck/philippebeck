@@ -6,7 +6,7 @@
 [![CodePen](https://img.shields.io/badge/Codepen-131417?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/philippebeck)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ph_beck)
 
-💼 Fullstack Developer & Web Trainer 
+💼 Senior Fullstack Developer & IT Development Trainer 
 
 🌱 FrontEnd packages made : [Animadio](https://www.npmjs.com/package/animadio), [Reactoms](https://www.npmjs.com/package/reactoms) & [Vesan](https://www.npmjs.com/package/vesan)  
 
